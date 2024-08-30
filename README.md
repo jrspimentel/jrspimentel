@@ -13,7 +13,7 @@ Como Analista de Dados, possuo experiência em projetos de médio e grande porte
 
 ## Cursos
 
-* Engenharia com SQL, Spark e Databricks - Datacement (08-2024)
+* Engenharia de Dados com SQL, Spark e Databricks - Datacement (08-2024)
 * Power BI Trilha Completa - Xperiun (05-2023)
 * Curso de Pentaho - Arruda Consulting (10 - 2022)
 * SQL para Análise de Dados - Udemy (08 - 2022)
