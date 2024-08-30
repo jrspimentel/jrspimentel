@@ -13,12 +13,14 @@ Como Analista de Dados, possuo experiência em projetos de médio e grande porte
 
 ## Cursos
 
+* Engenharia com SQL, Spark e Databricks - Datacement (08-2024)
+* Power BI Trilha Completa - Xperiun (05-2023)
 * Curso de Pentaho - Arruda Consulting (10 - 2022)
 * SQL para Análise de Dados - Udemy (08 - 2022)
 * Aprenda SQL do Zero - Udemy (07 - 2022)
 * Fundamentos de Data Analytics - LS Treinamentos (07 -2022)
 * Imersão Azure Big Data - LS Treinamentos (06 - 2022) 
-* Power BI Trilha Express - Leonardo Karpinski (11 - 2021)
+* Power BI Trilha Express - Xperiun (11 - 2021)
 * DashWay 2.0 Dashboards no Excel - T2T Talent to Training (06 - 2021)
 * Curso Básico de ETL no Power BI - Planilheiros (02 - 2021)
 * Curso Básico de Power BI - Planilheiros (02 - 2021)
